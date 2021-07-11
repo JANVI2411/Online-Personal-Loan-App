@@ -12,4 +12,4 @@ https://applyforloan.herokuapp.com/
 
 ## API demo video:
 
-![demo video](Loan_approval_api_demo.gif)
+![demo video](Loan-approval-api-demo.gif)
