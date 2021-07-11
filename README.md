@@ -9,3 +9,7 @@ https://applyforloan.herokuapp.com/
 <li>Python Libraries : Pandas,Numpy,sklearn
   
  </ul>
+
+## API demo video:
+
+![demo video](Loan_approval_api_demo.gif)
