@@ -1,5 +1,6 @@
 # Online-Personal-Loan-App
 
+## Check-out the app: 
 https://applyforloan.herokuapp.com/
 
 <ul>
